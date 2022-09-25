@@ -1,0 +1,17 @@
+{
+  "name": "white-theme",
+  "publisher": "hancel",
+  "version": "1.0.0",
+  "description": "白色主题",
+  "main": "index.css",
+  "scripts": {
+  },
+  "fishpi": {
+    "type": "theme"
+  },
+  "author": "Hancel",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/imlinhanchao/fishpi-theme-white"
+  }
+}

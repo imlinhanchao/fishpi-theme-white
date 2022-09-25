@@ -1,0 +1,79 @@
+:root {
+    /* 全局通用颜色变量 */
+    --global-text-color: #232425;
+    --global-active-color: #d23f31;
+    --global-background-color: #cecac3;
+    --global-popup-background-color: #caced3;
+    --global-control-background-color: #bcbdbd;
+    --global-control-placeholder-color: #2d2d2e;
+    --global-control-focus-color: rgba(141, 139, 139, 0.5);
+    --global-append-btn-background-color: #dcdede;
+    --global-control-text-color: #3d3b37;
+    --global-control-border-color: #a3b3b9;
+    --global-scroll-bar-color: rgba(24, 22, 22, 0.5);
+    --global-alpha-background-color: rgba(195, 202, 209, 0.5);
+
+    /*聊天消息 Markdown 颜色样式*/
+    --markdown-hr-color: #2c2d2d;
+    --markdown-head-border-color: #1d1e1e;
+    --markdown-blockquote-color: #9ba8b7;
+    --markdown-current-blockquote-color: #070707;
+    --markdown-blockquote-border-color: #1e1e1e;
+    --markdown-table-cell-border-color: #2d2d2d;
+    --markdown-table-background-color: #090909;
+    --markdown-table-border-color: #404345;
+    --markdown-table-even-color: rgb(0, 0, 0);
+    --markdown-code-background-color: rgba(180, 205, 230, 0.05);
+    --markdown-kdb-background-color: #0b0b0b;
+    --markdown-kdb-text-color: #b1c8de;
+    --markdown-kdb-border-color: #4c4d4e;
+    --markdown-kdb-shadow-color: #494a4c;
+
+    --header-btn-checked-color: #57a3f3;
+
+    /*聊天内容主题颜色样式*/
+    --main-chatroom-background-color: rgba(7, 7, 7, 0.03);
+    --main-chatroom-sidebar-background-color: rgba(4, 4, 4, 0.05);
+    --main-chatroom-message-background-color: #0c0c0c;
+    --main-chatroom-message-color: #edf2f6;
+    --main-chatroom-user-message-background-color: #808eab;
+    --main-chatroom-user-message-color: #121212;
+    --main-chatroom-plusone-background-color: #d23f31;
+    --main-chatroom-plusone-color: rgb(0, 0, 0);
+
+    /*表情包列表主题颜色样式*/
+    --main-emoji-background-color: #d6dfe9;
+    --main-emoji-bar-background-color: #8290af;
+
+    /*聊天室红包主题颜色样式*/
+    --main-redpacket-readed-background-color: #fecd41;
+    --main-redpacket-background-color: #f90;
+    --main-redpacket-message-color: #FFF;
+    --main-redpacket-type-color: #FFF;
+    --main-redpacket-type-border-color: #ed4014;
+
+    /*红包对话框主题颜色样式*/
+    --redpacket-background-color: #f25745;
+    --redpacket-header-background-color: #f45e4d;
+    --redpacket-text-color: #fee3aa;
+    --redpacket-username-color: #000;
+    --redpacket-border-color: #f1ca74;
+    --redpacket-max-tip-text-color: #FFF;
+    --redpacket-max-tip-background-color: #60b044;
+    --redpacket-max-tip-border-color: #5ca941;
+    --redpacket-zero-tip-text-color: #d23f31;
+    --redpacket-zero-tip-background-color: #FFF;
+    --redpacket-zero-tip-border-color: #D5D5D5;
+    --redpacket-gesture-type-color: #DDD;
+
+    /*活跃度主题颜色样式*/
+    --liveness-active-color: var(--global-active-color);
+    --liveness-normal-color: #57a3f3;
+
+    /*播放器主题颜色样式*/
+    --plyr-audio-control-color: var(--global-control-text-color);
+    --plyr-audio-controls-background: rgba(206, 211, 216, 0.78);
+    --plyr-color-main: #d23f31;
+
+}
+
